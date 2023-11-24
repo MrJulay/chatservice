@@ -1,0 +1,3 @@
+package chatcompletionstream
+
+type ChatCompletionUseCase 
